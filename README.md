@@ -12,6 +12,7 @@ In order to know how to work with it check the Readme.txt file that is inside th
 
 The license is AS IS. So there's no support or any responsibility about this and you should run it at your own risk. This was done only to help you achieve better results but not a commercial product. If you have any interesting ideas about this, please feel free to contact me or drop here a comment.
 
+
 How it works? 
 1. Deploy the Worker Role Accelerator into Windows Azure. 
 2. Create your Worker Roles which you want to join together in independent Worker Role projects 
